@@ -1,0 +1,18 @@
+Hello!
+
+You may notice, I messed around with the config files. I typically like to use
+aliases instead of relative paths for my imports, so spent some time setting that up
+but decided not to go through with it because I didn't realize when I'd started that 
+cypress would need tsconfig-paths to make it work (at least from my limited research), 
+and I didn't want to install too many new dependencies.
+
+Having already logged time dealing with this config process, I wanted to be mindful of the 
+1-2 hour timeframe and remain aligned with that. As a result, I didn't get around to defining
+too many specific test cases, but outlined my thoughts for some more and considerations I would
+have moving forward. Tried to do stuff in e2e and component for a little variety. 
+
+If what's presented here seems satisfactory, I'd be more than happy to talk through how 
+I would progress further with this project and address any other questions.
+
+Thanks for the opportunity!
+Brian
